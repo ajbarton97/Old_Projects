@@ -28,14 +28,12 @@ public class Brawlers {
 	}
 }
 
+//Should have made this static to begin with.
+
 /*
 package server.model.players.content;
 
 import server.model.players.Client;
-
-/**
- * @author -Null Code-
- */
 
 public class Brawlers {
 
